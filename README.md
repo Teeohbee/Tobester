@@ -10,7 +10,7 @@ Brief
 Features:
 -------
 
-```sh
+```
 As a Maker
 So that I can post messages on Tobester as me
 I want to sign up for Tobester
