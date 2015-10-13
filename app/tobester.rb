@@ -3,7 +3,7 @@ require 'sinatra/flash'
 require_relative '../data_mapper_setup'
 require 'sinatra/partial'
 
-class Chitter < Sinatra::Base
+class Tobester < Sinatra::Base
   PERMITTED_PARAMS = [:name, :username, :email, :password, :password_confirmation, :message]
 
   enable :sessions
@@ -15,7 +15,7 @@ class Chitter < Sinatra::Base
   enable :partial_underscores
 
   get '/' do
-    'Hello Chitter!'
+    'Hello Tobester!'
     redirect '/peeps'
   end
 

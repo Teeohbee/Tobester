@@ -2,7 +2,7 @@
 
 ENV['RACK_ENV'] = 'test'
 
-require File.join(File.dirname(__FILE__), '..', 'app/chitter.rb')
+require File.join(File.dirname(__FILE__), '..', 'app/tobester.rb')
 
 require 'capybara'
 require 'capybara/rspec'
@@ -18,7 +18,7 @@ SimpleCov.formatters = [
 ]
 Coveralls.wear!
 
-Capybara.app = Chitter
+Capybara.app = Tobester
 
 RSpec.configure do |config|
   config.include Capybara::DSL

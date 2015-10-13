@@ -1,4 +1,4 @@
-Chitter Challenge
+Tobester Challenge
 =================
 
 * Challenge time: Friday afternoon (+ weekend if you need it)
@@ -20,20 +20,20 @@ Features:
 
 ```sh
 As a Maker
-So that I can post messages on Chitter as me
-I want to sign up for Chitter
+So that I can post messages on Tobester as me
+I want to sign up for Tobester
 
 As a Maker
-So that I can post messages on Chitter as me
-I want to log in to Chitter
+So that I can post messages on Tobester as me
+I want to log in to Tobester
 
 As a Maker
-So that I can avoid others posting messages on Chitter as me
-I want to log out of Chitter
+So that I can avoid others posting messages on Tobester as me
+I want to log out of Tobester
 
 As a maker
 So that I can let people know what I am doing  
-I want to post a message (peep) to chitter
+I want to post a message (peep) to tobester
 
 As a maker
 So that I can see what others are saying  
@@ -48,9 +48,9 @@ Notes on functionality:
 ------
 
 * Drive the creation of your app using tests - either cucumber or rspec as you prefer
-* Makers sign up to chitter with their email, password, name and a user name (e.g. sam@makersacademy.com, s3cr3t, Samuel Russell Hampden Joseph, tansaku).
+* Makers sign up to tobester with their email, password, name and a user name (e.g. sam@makersacademy.com, s3cr3t, Samuel Russell Hampden Joseph, tansaku).
 * The username and email are unique.
-* Peeps (posts to chitter) have the name of the maker and their user handle.
+* Peeps (posts to tobester) have the name of the maker and their user handle.
 * Use bcrypt to secure the passwords.
 * Use data mapper and postgres to save the data.
 * You don't have to be logged in to see the peeps.
@@ -69,4 +69,4 @@ And/Or:
 
 * Work on the css to make it look good (we all like beautiful things).
 
-Good luck and let the chitter begin!
+Good luck and let the tobester begin!
