@@ -50,15 +50,7 @@ Approach
 * Please ensure that you update your README to indicate the technologies used, and give instructions on how to install and run the tests
 * Finally submit a pull request before Monday at 9am with your solution or partial solution.  However much or little amount of code you wrote please please please submit a pull request before Monday at 9am
 
-Bonus:
------
+Heroku Deployment
+-----------------
 
-If you have time you can implement the following:
-
-* In order to start a conversation as a maker I want to reply to a peep from another maker.
-
-And/Or:
-
-* Work on the css to make it look good (we all like beautiful things).
-
-Good luck and let the Tobester begin!
+[Tobester](https://blooming-springs-1110.herokuapp.com/)
