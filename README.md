@@ -62,6 +62,16 @@ Ruby, Sinatra, Postgres, Datamapper, Bcrypt, Heroku
 **Testing**  
 Rspec, Capybara, Factory Girl
 
+How to set up
+-----------------
+1. Clone this repo and `cd` into it
+2. Run `bundle install`
+3. Type `rspec` to run the test suite
+4. Run `rackup` to initalise the server
+5. Visit localhost
+
+Alternatively, check out the heroku deployment below!
+
 Heroku Deployment
 -----------------
 
